@@ -89,6 +89,6 @@ Le dossier [`src/preprocessing`](./src/preprocessing) contient tous les scripts 
 ## Auteurs
 
 - **Tom Connery**
-- **Emmanuel Djevedjian**
+- **Emmanuel Djezvedjian**
 - **Maté Cortela**
 - **Antonin Decouvelaere**
